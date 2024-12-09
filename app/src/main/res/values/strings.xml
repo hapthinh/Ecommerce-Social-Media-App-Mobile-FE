@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ecommerce-social-media</string>
+    <string name="user">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="birthday">Ngày Sinh</string>
+    <string name="phone">Số điện thoại</string>
+    <string name="email">Email</string>
+</resources>
